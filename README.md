@@ -1,4 +1,5 @@
 # cert-mananger installation shell
+![cert-manager](cm.png)
 - This shell script can install cert-manager for kubernetes
 - [More details here!](https://cert-manager.io/docs/)
 
