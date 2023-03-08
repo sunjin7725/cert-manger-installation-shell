@@ -2,6 +2,11 @@
 - This shell script can install cert-manager for kubernetes
 - [More details here!](https://cert-manager.io/docs/)
 
+## Requirements
+- kubernetes(k3s, minikube, or etc,. are also compatible)
+- helm
+- You can install `K3S` [here](https://github.com/sunjin7725/k3s-installation-shell)!
+- You can install `Helm` [here](https://github.com/sunjin7725/helm-installation-shell)!
 
 ## Installation
 ```bash
