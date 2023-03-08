@@ -11,6 +11,8 @@
 
 ## Installation
 ```bash
+chmod +x cert-manager.sh
+
 ./cert-manager.sh ${VERSION}
 ```
 **Note**  
