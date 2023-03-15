@@ -15,5 +15,5 @@ if [ $# -eq 1 ]; then
     --version ${VERSION}
     "
 else
-    echo "Cert-manager need version. Install like this command './cert-manager.sh ${VERSION}'"
+    echo "Cert-manager need version. Install like this command './cert-manager.sh `SOME-VERSION`'"
 fi
